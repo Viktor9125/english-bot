@@ -150,11 +150,3 @@ def handle_all(message):
 
 if __name__ == '__main__':
     bot.polling(none_stop=True)
-
-# import datetime
-#
-# today = datetime.datetime.today()
-# today2 = today + datetime.timedelta(days=5)
-#
-# print(today)
-# print(today2)
